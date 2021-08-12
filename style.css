@@ -199,58 +199,7 @@ body {
 .bar-container {
   height: 2.7rem;
 }
-.jisu-box {
-  position: absolute;
-  top: 0;
-  left: 0;
-  height: 2rem;
-  border-radius: 10px;
-  width: 100%;
-  background-color: rgba(117, 204, 84, 0.2);
-}
-.jisu-bar {
-  position: absolute;
-  top: 0;
-  left: 0;
-  height: 2rem;
-  border-radius: 10px;
-  background-color: rgba(117, 204, 84, 1);
-}
-.jeny-box {
-  position: absolute;
-  top: 0;
-  left: 0;
-  height: 2rem;
-  border-radius: 10px;
-  width: 100%;
-  background-color: rgba(117, 204, 84, 0.2);
-}
-.jeny-bar {
-  position: absolute;
-  top: 0;
-  left: 0;
-  height: 2rem;
-  border-radius: 10px;
-  background-color: rgba(117, 204, 84, 1);
-}
-.lisa-box {
-  position: absolute;
-  top: 0;
-  left: 0;
-  height: 2rem;
-  border-radius: 10px;
-  width: 100%;
-  background-color: rgba(27, 175, 234, 0.2);
-}
-.lisa-bar {
-  position: absolute;
-  top: 0;
-  left: 0;
-  height: 2rem;
-  border-radius: 10px;
-  background-color: rgba(27, 175, 234, 1);
-}
-.rose-box {
+.dog-box {
   position: absolute;
   top: 0;
   left: 0;
@@ -259,7 +208,7 @@ body {
   width: 100%;
   background-color: rgba(251, 176, 59, 0.2);
 }
-.rose-bar {
+.dog-bar {
   position: absolute;
   top: 0;
   left: 0;
@@ -267,6 +216,41 @@ body {
   border-radius: 10px;
   background-color: rgba(251, 176, 59, 1);
 }
+.cat-box {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 2rem;
+  border-radius: 10px;
+  width: 100%;
+  background-color: rgba(117, 204, 84, 0.2);
+}
+.cat-bar {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 2rem;
+  border-radius: 10px;
+  background-color: rgba(117, 204, 84, 1);
+}
+.bird-box {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 2rem;
+  border-radius: 10px;
+  width: 100%;
+  background-color: rgba(27, 175, 234, 0.2);
+}
+.bird-bar {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 2rem;
+  border-radius: 10px;
+  background-color: rgba(27, 175, 234, 1);
+}
+
 /* .bear-box {
   position: absolute;
   top: 0;
@@ -339,34 +323,28 @@ body {
 .animal-explain {
     font-size: 1.5rem;
 }
-.jisu-animal-title {
+.dog-animal-title {
     color: #3ba363;
 }
-.jisu-animal-celeb {
-    color: #3ba363;
-    font-size: 1.2rem;
-}
-.jeny-animal-title {
-    color: #3ba363;
-}
-.jeny-animal-celeb {
+.dog-animal-celeb {
     color: #3ba363;
     font-size: 1.2rem;
 }
-.lisa-animal-title {
-    color: #ff6c0a;
+.cat-animal-title {
+    color: #3ba363;
 }
-.lisa-animal-celeb {
-    color: #ff6c0a;
+.cat-animal-celeb {
+    color: #3ba363;
     font-size: 1.2rem;
 }
-.rose-animal-title {
-    color: #548dd4;
+.bird-animal-title {
+    color: #3ba363;
 }
-.rose-animal-celeb {
-    color: #548dd4;
+.bird-animal-celeb {
+    color: #3ba363;
     font-size: 1.2rem;
 }
+
 /* 클래스가 더 많으면 넣으세요 */
 /* .rabbit-animal-title {
     color: #e56995;
