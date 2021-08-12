@@ -206,7 +206,7 @@ body {
   height: 2rem;
   border-radius: 10px;
   width: 100%;
-  background-color: rgba(251, 176, 59, 0.2);
+  background-color: rgba(117, 204, 84, 0.2);
 }
 .dog-bar {
   position: absolute;
@@ -214,7 +214,7 @@ body {
   left: 0;
   height: 2rem;
   border-radius: 10px;
-  background-color: rgba(251, 176, 59, 1);
+  background-color: rgba(117, 204, 84, 1);
 }
 .cat-box {
   position: absolute;
@@ -223,7 +223,7 @@ body {
   height: 2rem;
   border-radius: 10px;
   width: 100%;
-  background-color: rgba(117, 204, 84, 0.2);
+  background-color: rgba(27, 175, 234, 0.2);
 }
 .cat-bar {
   position: absolute;
@@ -231,7 +231,7 @@ body {
   left: 0;
   height: 2rem;
   border-radius: 10px;
-  background-color: rgba(117, 204, 84, 1);
+  background-color: rgba(27, 175, 234, 1);
 }
 .bird-box {
   position: absolute;
@@ -240,7 +240,7 @@ body {
   height: 2rem;
   border-radius: 10px;
   width: 100%;
-  background-color: rgba(27, 175, 234, 0.2);
+  background-color: rgba(251, 176, 59, 0.2);
 }
 .bird-bar {
   position: absolute;
@@ -248,9 +248,8 @@ body {
   left: 0;
   height: 2rem;
   border-radius: 10px;
-  background-color: rgba(27, 175, 234, 1);
+  background-color: rgba(251, 176, 59, 1);
 }
-
 /* .bear-box {
   position: absolute;
   top: 0;
@@ -331,20 +330,19 @@ body {
     font-size: 1.2rem;
 }
 .cat-animal-title {
-    color: #3ba363;
+    color: #ff6c0a;
 }
 .cat-animal-celeb {
-    color: #3ba363;
+    color: #ff6c0a;
     font-size: 1.2rem;
 }
 .bird-animal-title {
-    color: #3ba363;
+    color: #548dd4;
 }
 .bird-animal-celeb {
-    color: #3ba363;
+    color: #548dd4;
     font-size: 1.2rem;
 }
-
 /* 클래스가 더 많으면 넣으세요 */
 /* .rabbit-animal-title {
     color: #e56995;
