@@ -1,0 +1,3 @@
+User-agent;*
+Allow: /
+https://aiweb.netlify.app/sitemap.xml
